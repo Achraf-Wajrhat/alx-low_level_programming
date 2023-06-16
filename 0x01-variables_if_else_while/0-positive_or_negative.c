@@ -1,7 +1,8 @@
 #include <stdlib.h>
 #include <time.h>
+#include <stdio.h>
 /**
- * main - Entry point
+ * main - See if the number n positive, negative or equal to zero
  *
  * If : if statement
  * Return: Always 0 (Success)
