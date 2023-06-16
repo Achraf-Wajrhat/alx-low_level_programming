@@ -1,8 +1,9 @@
 #include <stdio.h>
+
 /**
- * main - Print num from 0 to 9
+ * main - Prints numbers from 0 to 9.
  *
- * Return : Always 0 (Seccess)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
